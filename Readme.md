@@ -6,8 +6,7 @@ It showcases my skills, hobbies, favorite anime/shows, and includes a contact fo
 
 **Key Features:**
 - Semantic HTML structure (`<header>`, `<section>`, `<footer>`)  
-- Internal navigation between pages (`index.html`, `about.html`, `contact.html`)  
-- Clickable images with Easter egg alert  
+- Internal navigation between pages (`index.html`, `about.html`, `contact.html`)   
 - Favorite anime/shows table  
 - Contact form with various input types  
 - Bonus elements: `<blockquote>`, `<abbr>`, `<cite>`, second clickable image  
