@@ -13,4 +13,4 @@ It showcases my skills, hobbies, favorite anime/shows, and includes a contact fo
 
 ---
 
-## Project Structure
+## Project Structure simple
